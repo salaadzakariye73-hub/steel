@@ -1,0 +1,6 @@
+{
+  "name": "Kaah Steel Prop Rental System",
+  "description": "Enterprise steel prop & shoring equipment rental management system with inventory, daily billing, partial returns, bilingual invoices, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
