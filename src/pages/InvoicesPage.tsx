@@ -218,7 +218,7 @@ export function InvoicesPage() {
                   className="h-10 w-10 rounded-lg bg-white p-0.5"
                 />
                 <div>
-                  <div className="font-display text-sm font-bold">KAAH STEEL PROPS & SHORING</div>
+                  <div className="font-display text-sm font-bold">KAAH STEEL PROPS</div>
                   <div className="text-xs text-slate-300">
                     KM4 Industrial Rd, Mogadishu · +252 61 500 1001
                   </div>
